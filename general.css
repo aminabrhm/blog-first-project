@@ -1,0 +1,44 @@
+.aside-menu-wrapper {
+    background: var(--clr-blue);
+    padding: 30px 20px;
+    margin-right: 2rem;
+}
+
+aside {
+    position:fixed;
+    left: 0rem;
+    top: 0rem;
+    height: 100%;
+    width: 12rem;
+    background-color: #F5DAE4;
+}
+
+.bring-to-front {
+    z-index: 200;
+}
+
+.aside-element {
+    display: flex;
+    justify-content: center;
+    /* background-color: brown; */
+    z-index: 100;
+    padding: 0.5rem;
+    font-variant: normal;
+}
+
+.hight {
+    height: 5rem;
+}
+
+.content {
+    position: absolute;
+    padding: 3rem;
+    right: 0rem;
+    left: 10rem;
+    bottom: 0;
+    top: 0rem;
+}
+
+.card-width {
+    padding: 2rem;
+}

@@ -42,3 +42,13 @@ aside {
 .card-width {
     padding: 2rem;
 }
+
+.form-title{
+    position: relative;
+    left: 0.5rem;
+}
+.form-group {
+    background-color: #F5DAE4;
+    padding: 5rem;
+    border-radius: 2%;
+}
